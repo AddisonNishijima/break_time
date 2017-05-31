@@ -11,7 +11,7 @@
 
 ## Setup/Installation Requirements
 
-* _type "git clone https://github.com/AddisonNishijima/vending_machine.git" into your terminal_
+* _type "git clone https://github.com/AddisonNishijima/break_time.git" into your terminal_
 * _make sure the project folder is in an easy to access place, like the desktop_
 * _install [Python](https://www.python.org/downloads/)_
 * _enter the project folder and double-click to open with Python_
