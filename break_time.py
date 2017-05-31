@@ -1,7 +1,6 @@
 import time
 import webbrowser
 
-
 total_breaks = 3
 break_count = 0
 
